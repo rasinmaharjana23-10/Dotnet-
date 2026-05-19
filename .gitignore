@@ -1,0 +1,19 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Dependencies
+node_modules/
+
+# IDEs/Editors
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+
+# Agent/Environment files
+brain/
+.gemini/
